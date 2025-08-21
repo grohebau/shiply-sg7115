@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Kreuzpointstraße 9",
+      "postal_code": "4600",
+      "city": "Wels",
+      "country": "Österreich",
+      "lat": "48.170274287340845",
+      "lng": "14.026619784300292"
     }
   }
 }
